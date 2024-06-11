@@ -1,0 +1,4 @@
+1.编写Java的Entity类文件
+2.编写Java的DataMapper接口文件
+3.编写Java的DataController类文件
+4.编写对应的charts.html
